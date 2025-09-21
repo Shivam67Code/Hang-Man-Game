@@ -1,5 +1,5 @@
 # React Hangman Game
-
+ 
 A classic Hangman word guessing game built with React and TypeScript. Test your vocabulary skills by guessing the hidden word one letter at a time!
 
 ![Hangman Game](./images/HANG-MAN.png)
