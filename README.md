@@ -140,10 +140,6 @@ Feel free to contribute by:
 - Adding new features like difficulty levels
 - Optimizing performance
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Enjoy Playing!
 
 Have fun testing your vocabulary skills with this classic word guessing game!
